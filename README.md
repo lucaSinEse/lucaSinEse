@@ -4,6 +4,6 @@
 
 ## Sobre mi
 
--Programador en Python.
--Entreno modelos de inteligencia artificial capaces de detectar objetos.
--Utilizo librerias de vision artificial.
+- Programador en Python.
+- Entreno modelos de inteligencia artificial capaces de detectar objetos.
+- Utilizo librerias de vision artificial.
