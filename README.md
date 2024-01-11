@@ -12,7 +12,7 @@
 
 ## Aprendizaje
 
-- Actualmente estoy aprendiendo Reflex, FastAPI, Bases de Datos
+- Actualmente estoy aprendiendo Django, Reflex, FastAPI, Bases de Datos
 - Tengo conocimientos en librerias tales como matplotlib, numpy, pandas, seaborn
 - Conocimientos en visualizacion de datos, analisis exploratorio de datos, manejo de datos faltantes.
 
