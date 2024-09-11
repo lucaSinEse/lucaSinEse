@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Tech Planning Developer<br>🌱 I’m currently learning TypeScript and Express.js
+🔭 I’m currently working Tech Planning Developer<br>🌱Learning TypeScript and Express.js
 
 
 ## 🌐 Socials:
@@ -14,6 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+
 
 ### Frameworks
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
